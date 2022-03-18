@@ -1,0 +1,54 @@
+{
+  "user": [
+    {
+      "userName": "Ngo Minh Dong",
+      "gender": "Male",
+      "date": "1999-04-20",
+      "phone": "0339065951",
+      "email": "Minhdong20499@gmail.com",
+      "address": "Thai Binh",
+      "about": "Kien Xuong",
+      "id": 2
+    },
+    {
+      "userName": "Tran Dinh Doan",
+      "gender": "Male",
+      "date": "1999-09-16",
+      "phone": "0339065951",
+      "email": "Doantran129@vmodev.com",
+      "address": "Bui Xuong Trach",
+      "about": "Nice",
+      "id": 3
+    },
+    {
+      "userName": "Tran Minh Hieu",
+      "gender": "Female",
+      "date": "1999-09-06",
+      "phone": "0339065951",
+      "email": "hiutheboss1999@vmodev.com",
+      "address": "Quan Nhan",
+      "about": "Nice girl",
+      "id": 4
+    },
+    {
+      "userName": "Nguyen Quoc Khanh",
+      "gender": "Male",
+      "date": "1999-09-02",
+      "phone": "0339065951",
+      "email": "Gessmon29@vmodev.com",
+      "address": "Duong Lang",
+      "about": "Nice",
+      "id": 6
+    },
+    {
+      "userName": "Nguyen Huyen Trang",
+      "gender": "Female",
+      "date": "1999-09-17",
+      "phone": "0972834985",
+      "email": "trangnh@vmogroup.com",
+      "address": "Thai Binh",
+      "about": "Ex",
+      "id": 7
+    }
+  ]
+}
